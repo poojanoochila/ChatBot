@@ -1,0 +1,28 @@
+User: when is the last date for admission
+Intent: deadlines
+Bot: MCA admissions close on September 30, 2025. Late applications are accepted until October 15 with a late fee.
+
+User: what is the qualification
+Intent: eligibility
+Bot: Eligibility: Bachelor's degree with at least 50% marks and a valid entrance exam score.
+
+User: what is the total fee
+Intent: fees
+Bot: The total tuition fee is ₹1,20,000 per year. Scholarships are offered to the top 10% scorers.
+
+User: is there recruit
+Intent: placements
+Bot: The placement cell has partnerships with top IT companies. 85% of students get placed each year.
+
+User: what is the contact info
+Intent: contact
+Bot: Email: mcaadmissions@mca | Phone: +91-0123456789
+
+User: what is the syllabus
+Intent: syllabus
+Bot: The syllabus includes Programming in Python, Data Structures, Mathematics, Operating Systems, Object Oriented Programming.
+
+User: is there lab
+Intent: campus_facilities
+Bot: Campus facilities include well-equipped computer labs, library, sports grounds, Wi-Fi, and cafeteria.
+
